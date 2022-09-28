@@ -29,7 +29,7 @@ function toggleMobileMenu() {
     }
 
     closeProductDetail();
-    
+
     mobilemenu.classList.toggle('inactive');
 }
 
